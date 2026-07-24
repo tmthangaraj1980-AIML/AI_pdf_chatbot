@@ -1,27 +1,14 @@
-# ============================================
-# AI PDF Chatbot - Requirements
-# Python Version: 3.10.x
-# ============================================
-
-langchain==0.2.17
-langchain-community==0.2.19
-langchain-google-genai==1.0.10
-
-google-generativeai==0.7.2
-
-faiss-cpu==1.14.3
-
-sentence-transformers==3.0.1
-transformers==4.44.2
-torch==2.4.1
-
-pypdf==4.3.1
-
-python-dotenv==1.0.1
-
-streamlit==1.37.1
-
-tqdm==4.66.5
-
-numpy==1.26.4
-pandas==2.2.2
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pypdf
+python-dotenv
+tqdm
+numpy
+pandas
